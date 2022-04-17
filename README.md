@@ -7,7 +7,7 @@
 
 - 👯 I’m collaborating on [GeoChatter.tv](https://geobingo.io)
 
-- 💬 Ask me about **sveltekit, tailwindcss, nodejs, socket.io**
+- 💬 Ask me about **sveltekit, tailwindcss, daisyui,  nodejs, socket.io**
 
 - 📫 How to reach me **soeren.michaels+github@gmail.com** or on **discord Sören#1141**
 
