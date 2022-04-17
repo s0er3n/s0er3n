@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **sveltekit, tailwindcss, nodejs, socket.io**
 
-- 📫 How to reach me **soeren.michaels+github@gmail.com** or on discord Sören#1141
+- 📫 How to reach me **soeren.michaels+github@gmail.com** or on **discord Sören#1141**
 
 - ⚡ Fun fact about me **I am studying geography right now**
 
