@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sören</h1>
 <h3 align="center">A passionate frontend and backend developer from Germany</h3>
 
-- 🔭 I’m currently working on [GeoBingo.io](GeoBingo.io)
+- 🔭 I’m currently working on [GeoBingo.io](https://geobingo.io/)
 
 - 🌱 I’m currently learning **typescript**
 
-- 👯 I’m collaborating on [GeoChatter.tv](GeoChatter.tv)
+- 👯 I’m collaborating on [GeoChatter.tv](https://geobingo.io)
 
 - 💬 Ask me about **sveltekit, tailwindcss, nodejs, socket.io**
 
