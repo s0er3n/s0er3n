@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sören</h1>
 <h3 align="center">A passionate frontend and backend developer from Germany</h3>
 
-- 🔭 I’m currently working on [GeoBingo.io](https://geobingo.io/)
+- 🔭 I’m currently working on my website [GeoBingo.io](https://geobingo.io/)
 
 - 🌱 I’m currently learning **typescript**
 
