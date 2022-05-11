@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **typescript**
 
-- 👯 I’m collaborating on [GeoChatter.tv](https://GeoChatter.tv)
+- 👯 I’m collaborating on [GeoChatter.tv](https://geochatter.tv/map/?Bot_a_Gopher)
 
 - 💬 Ask me about **sveltekit, tailwindcss, daisyui,  nodejs, socket.io**
 
