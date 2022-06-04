@@ -19,5 +19,6 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/soerenmichaels"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png" height="50" width="210" alt="soerenmichaels" /></a></p><br><br>
+<p><a href='https://ko-fi.com/soerenmichaels' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+</a></p><br><br>
 
